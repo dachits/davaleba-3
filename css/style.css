@@ -5,3 +5,26 @@ padding-left: 5px;
 .active {
 	color: red;
 }
+.container { margin: 0 auto;
+display: inline-block;
+width: 100%; 
+}
+
+
+
+.leftbox , .rightbox {
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	padding-top: 18px;
+	padding-left: 18px;
+	background: lightgrey;
+
+}
+p {width: 256px;
+display: inline-block;
+padding-left: 20px;}
+img , p {
+	vertical-align: top;
+	padding-top: 5px;
+}
